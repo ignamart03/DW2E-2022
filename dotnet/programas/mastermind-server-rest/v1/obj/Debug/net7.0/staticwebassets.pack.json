@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Vespertino\\Desktop\\FP\\Entorno cliente\\Github\\Arechaga cloned\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\assets\\css\\monitor_mastermind.css",
+      "PackagePath": "staticwebassets\\assets\\css\\monitor_mastermind.css"
+    },
+    {
+      "Id": "C:\\Users\\Vespertino\\Desktop\\FP\\Entorno cliente\\Github\\Arechaga cloned\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\assets\\scripts\\htmlutils.js",
+      "PackagePath": "staticwebassets\\assets\\scripts\\htmlutils.js"
+    },
+    {
+      "Id": "C:\\Users\\Vespertino\\Desktop\\FP\\Entorno cliente\\Github\\Arechaga cloned\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\assets\\scripts\\monitor_mastermind.js",
+      "PackagePath": "staticwebassets\\assets\\scripts\\monitor_mastermind.js"
+    },
+    {
+      "Id": "C:\\Users\\Vespertino\\Desktop\\FP\\Entorno cliente\\Github\\Arechaga cloned\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Vespertino\\Desktop\\FP\\Entorno cliente\\Github\\Arechaga cloned\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\monitor.html",
+      "PackagePath": "staticwebassets\\monitor.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.mastermind-server.props",
+      "PackagePath": "build\\mastermind-server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.mastermind-server.props",
+      "PackagePath": "buildMultiTargeting\\mastermind-server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.mastermind-server.props",
+      "PackagePath": "buildTransitive\\mastermind-server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.mastermind-server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
