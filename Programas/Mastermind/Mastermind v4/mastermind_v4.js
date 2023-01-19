@@ -43,6 +43,16 @@ class ConfiguracionMastermind {
     } // constructor
 } // class ConfiguracionMastermind
 
+var xhr = new XMLHttpRequest();
+xhr.addEventListener("load", peticion_juego_nuevo_aceptada);
+xhr.addEventListener("error", peticion_juego_nuevo_error);
+
+xhr.open("POST", "http://localhost:5011/v1/mastermind");
+xhr.setRequestHeader("Content-Type", "application/json");
+xhr.setRequestHeader("Accept", "application/json");
+var cuerpo = JSON.stringify(ConfiguracionMastermind);
+xhr.send(cuerpo);
+
 // ------------------------------------------------------------------
 // Clase JuegoMastermind
 
@@ -95,10 +105,15 @@ class JuegoMastermind extends ConfiguracionMastermind {
     // ----------------------------------------------------
     // métodos (públicos)
 
-    /**
-     * @param {number[]} jugada
-     */
-    realizar_jugada(jugada) {
+    realizar_jugada() {
+        let numero1 = /** @type {HTMLInputElement} */ (window.document.getElementById("numero_1")).valueAsNumber;
+        let numero2 = /** @type {HTMLInputElement} */ (window.document.getElementById("numero_2")).valueAsNumber;
+        let numero3 = /** @type {HTMLInputElement} */ (window.document.getElementById("numero_3")).valueAsNumber;
+    
+        var jugada = {
+            numeros: [numero1, numero2, numero3],
+        };
+
         // validación interna
         window.console.assert(jugada.length == this.numeros.length, "realizar_jugada(): jugada.length != this.numeros.length");
 
@@ -506,7 +521,7 @@ function on_boton_enviar_click() {
     if (jugada === null) return;
 
     // pedimos al juego que analice la jugada
-    let resultado = mastermind.realizar_jugada(jugada)
+    let resultado = mastermind.realizar_jugada()
 
     // "pintamos" el resultado de la jugada
     let tabla = obtener_tabla_jugadas(mastermind);

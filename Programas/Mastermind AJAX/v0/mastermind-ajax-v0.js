@@ -46,8 +46,8 @@ function peticion_juego_nuevo_error(ev) {
 
 function on_boton_jugar_click() {
     let numero1 = /** @type {HTMLInputElement} */ (window.document.getElementById("numero_1")).valueAsNumber;
-    let numero2 = window.document.getElementById("numero_2").valueAsNumber;
-    let numero3 = window.document.getElementById("numero_3").valueAsNumber;
+    let numero2 = /** @type {HTMLInputElement} */ (window.document.getElementById("numero_2")).valueAsNumber;
+    let numero3 = /** @type {HTMLInputElement} */ (window.document.getElementById("numero_3")).valueAsNumber;
 
     var jugada = {
         numeros: [numero1, numero2, numero3],
