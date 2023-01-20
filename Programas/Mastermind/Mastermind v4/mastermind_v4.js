@@ -1,6 +1,8 @@
 // @ts-check
 "use strict";
 
+var id_juego = "";
+
 /*
 Versión v4 del juego «Mastermind»
 
