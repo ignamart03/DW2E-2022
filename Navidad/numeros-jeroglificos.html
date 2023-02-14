@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Ignacio Martínez">
+    <title>Calculadora de jeroglíficos.</title>
+    <script src="numeros-jeroglificos.js"></script>
+    <script src="numeros-jeroglificos-parte-2.js"></script>
+    <script src="numeros-jeroglificos-v2.js"></script>
+    <style>
+        .jeroglifico { font-family: sans-serif ; font-size: 3em; }
+    </style>
+</head>
+
+<body>
+    <div id="div1">
+        <form>
+            <label for="numero_dado">Escribe tu numero a convertir!</label>
+            <input type="number" id="numero_dado" name="numero_dado">
+            <button type="button" onclick="crear_tabla_jero();">Convertir</button> <br>
+        </form>
+    </div>
+    <br>
+    <div id="div2" style="display: none;">
+        <table id="tabla_jero">
+            <thead>
+                <tr>
+                    <th>Número</th>
+                    <th>Representación simbólica</th>
+                    <th>Representación en jeroglifico</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</body>
+
+</html>
