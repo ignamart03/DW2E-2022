@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Akrc7caoKjYKT0j9rUPOQAfMbJcT1qiI6bRRarYc2j4=",
+  "Hash": "X+YxJuO4972fDS7eGSFuHAQxqaroIYM6jAHjOA8T4OI=",
   "Source": "mastermind-server",
   "BasePath": "_content/mastermind-server",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "mastermind-server\\wwwroot",
       "Source": "mastermind-server",
-      "ContentRoot": "C:\\Users\\Vespertino\\Desktop\\FP\\Entorno cliente\\Github\\Arechaga cloned\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\",
+      "ContentRoot": "D:\\Github Desktop\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\",
       "BasePath": "_content/mastermind-server",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Vespertino\\Desktop\\FP\\Entorno cliente\\Github\\Arechaga cloned\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\assets\\css\\monitor_mastermind.css",
+      "Identity": "D:\\Github Desktop\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\assets\\css\\monitor_mastermind.css",
       "SourceId": "mastermind-server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vespertino\\Desktop\\FP\\Entorno cliente\\Github\\Arechaga cloned\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\",
+      "ContentRoot": "D:\\Github Desktop\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\",
       "BasePath": "_content/mastermind-server",
       "RelativePath": "assets/css/monitor_mastermind.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\monitor_mastermind.css"
     },
     {
-      "Identity": "C:\\Users\\Vespertino\\Desktop\\FP\\Entorno cliente\\Github\\Arechaga cloned\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\assets\\scripts\\htmlutils.js",
+      "Identity": "D:\\Github Desktop\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\assets\\scripts\\htmlutils.js",
       "SourceId": "mastermind-server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vespertino\\Desktop\\FP\\Entorno cliente\\Github\\Arechaga cloned\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\",
+      "ContentRoot": "D:\\Github Desktop\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\",
       "BasePath": "_content/mastermind-server",
       "RelativePath": "assets/scripts/htmlutils.js",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scripts\\htmlutils.js"
     },
     {
-      "Identity": "C:\\Users\\Vespertino\\Desktop\\FP\\Entorno cliente\\Github\\Arechaga cloned\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\assets\\scripts\\monitor_mastermind.js",
+      "Identity": "D:\\Github Desktop\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\assets\\scripts\\monitor_mastermind.js",
       "SourceId": "mastermind-server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vespertino\\Desktop\\FP\\Entorno cliente\\Github\\Arechaga cloned\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\",
+      "ContentRoot": "D:\\Github Desktop\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\",
       "BasePath": "_content/mastermind-server",
       "RelativePath": "assets/scripts/monitor_mastermind.js",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scripts\\monitor_mastermind.js"
     },
     {
-      "Identity": "C:\\Users\\Vespertino\\Desktop\\FP\\Entorno cliente\\Github\\Arechaga cloned\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\index.html",
+      "Identity": "D:\\Github Desktop\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\index.html",
       "SourceId": "mastermind-server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vespertino\\Desktop\\FP\\Entorno cliente\\Github\\Arechaga cloned\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\",
+      "ContentRoot": "D:\\Github Desktop\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\",
       "BasePath": "_content/mastermind-server",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Vespertino\\Desktop\\FP\\Entorno cliente\\Github\\Arechaga cloned\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\monitor.html",
+      "Identity": "D:\\Github Desktop\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\monitor.html",
       "SourceId": "mastermind-server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Vespertino\\Desktop\\FP\\Entorno cliente\\Github\\Arechaga cloned\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\",
+      "ContentRoot": "D:\\Github Desktop\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\wwwroot\\",
       "BasePath": "_content/mastermind-server",
       "RelativePath": "monitor.html",
       "AssetKind": "All",

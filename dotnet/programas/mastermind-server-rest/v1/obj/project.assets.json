@@ -460,19 +460,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Vespertino\\.nuget\\packages\\": {}
+    "C:\\Users\\nacho\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vespertino\\Desktop\\FP\\Entorno cliente\\Github\\Arechaga cloned\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\mastermind-server.csproj",
+      "projectUniqueName": "D:\\Github Desktop\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\mastermind-server.csproj",
       "projectName": "mastermind-server",
-      "projectPath": "C:\\Users\\Vespertino\\Desktop\\FP\\Entorno cliente\\Github\\Arechaga cloned\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\mastermind-server.csproj",
-      "packagesPath": "C:\\Users\\Vespertino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vespertino\\Desktop\\FP\\Entorno cliente\\Github\\Arechaga cloned\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\obj\\",
+      "projectPath": "D:\\Github Desktop\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\mastermind-server.csproj",
+      "packagesPath": "C:\\Users\\nacho\\.nuget\\packages\\",
+      "outputPath": "D:\\Github Desktop\\DW2E-2022\\dotnet\\programas\\mastermind-server-rest\\v1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Vespertino\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\nacho\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
