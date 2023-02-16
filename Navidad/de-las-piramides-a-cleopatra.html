@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Ignacio Martínez">
+    <script src="de-las-piramides-a-cleopatra.js"></script>
+    <script src="de-las-piramides-a-cleopatra-parte-3.js"></script>
+    <title>de las piramides de cleopatra</title>
+</head>
+<body>
+    <div id="div_form">
+        <form>
+            <label for="num1">Introduce el primer número</label>
+            <input id="num1" type="number" max="10000" min="-10000"> <br> <br>
+            <label for="num2">Introduce el segundo número</label>
+            <input id="num2" type="number" max="10000" min="-10000"> <br> <br>
+            <label for="num3">Introduce el tercer número</label>
+            <input id="num3" type="number" max="10000" min="-10000"> <br> <br>
+            <button type="button" onclick="crear_tabla();">Calcular</button>
+        </form>
+    </div>
+    <br>
+    <div id="div_tabla" style="display: none;">
+        <table id="tabla_cleo">
+            <thead>
+                <tr>
+                    <th>A</th>
+                    <th>B</th>
+                    <th>C</th>
+                    <th>Resultado</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</body>
+</html>
